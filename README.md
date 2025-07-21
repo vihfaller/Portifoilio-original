@@ -30,6 +30,7 @@ Durante o desenvolvimento deste projeto, foram praticados conceitos como:
 ## 📌 Status
 
 🚧 Projeto em desenvolvimento...
+
 Link do site: [http://127.0.0.1:5500/Portif%C3%B3llio/index.html](https://vihfaller.github.io/Portifoilio-original/)
 ---
 
