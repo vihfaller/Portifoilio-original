@@ -45,3 +45,12 @@ form .btn-enviar input {
     cursor: pointer;
     transition: 0.5s;
 }
+
+.btn-contato a {
+    color: black;
+}
+
+.btn-contato:hover {
+    transition: transform 0.5s ease;
+    transform: scale(1.1);
+}

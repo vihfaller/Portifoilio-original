@@ -3,13 +3,17 @@
         flex-direction: column-reverse;
     }
 
-    .menu-desktop,
+    
     .btn-contato {
         display: none;
     }
 
     section.topo-do-site .flex {
         gap: 40px;
+    }
+
+    .btn-abrir-menu i {
+        display: flex;
     }
 
     section.topo-do-site {
